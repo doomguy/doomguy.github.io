@@ -1,0 +1,17 @@
+html, body {
+	margin-bottom:0;
+	padding-bottom:0;
+	height:99%;
+}
+
+body {
+	background-color: #111111;
+	color: #EEEEEE;
+	font-family: Georgia, Times, serifs;
+}
+
+a:link 	  	{ color:#EEEEEE; text-decoration: underline;} /* unvisited link */
+a:visited 	{ color:#DDDDDD; text-decoration: underline;} /* visited link */
+a:hover 	{ color:#FFFFFF; text-decoration: underline; } /* mouse over link */
+a:active  	{ color:#FFFFFF; text-decoration: underline;} /* selected link */
+
