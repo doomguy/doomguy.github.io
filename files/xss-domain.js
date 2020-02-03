@@ -1,1 +1,5 @@
-alert(document.domain);
+function main() {
+   alert(document.domain);
+}
+
+main();
