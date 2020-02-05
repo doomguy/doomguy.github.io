@@ -10,6 +10,11 @@ body {
 	font-family: Georgia, Times, serifs;
 }
 
+.content {
+  max-width: 500px;
+  margin: auto;
+}
+
 a:link 	  	{ color:#EEEEEE; text-decoration: underline;} /* unvisited link */
 a:visited 	{ color:#DDDDDD; text-decoration: underline;} /* visited link */
 a:hover 	{ color:#FFFFFF; text-decoration: underline; } /* mouse over link */
